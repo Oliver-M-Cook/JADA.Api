@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "JADA.App": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7117",
+      "launchBrowser": false
+    }
+  }
+}
